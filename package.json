@@ -1,0 +1,17 @@
+{
+  "name": "demo-client",
+  "subdomain": "democlient",
+  "domains": [
+    "client.sharedcinema.com"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.0-4",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "express": "2.5.8"
+  }
+}
